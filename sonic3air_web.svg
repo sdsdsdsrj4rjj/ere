@@ -565,7 +565,7 @@ Module.setStatus("Downloading..."), window.onerror = function(e) {
     }
 }
 </script>
-<script async src=sonic3air_web.js></script>
+<script async src=https://cdn.jsdelivr.net/gh/sdsdsdsrj4rjj/ere@main/sonic3air_web.js></script>
 </body>
 </html>
 ]]></script>
